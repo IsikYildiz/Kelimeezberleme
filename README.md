@@ -1,7 +1,7 @@
 İngilizce Kelime Ezberleme Yazılımı
 Manisa Celal Bayar Üniversitesi
 
-Proje Ekibi: Işık Yıldız 222802064, Hasan Yıldız 232803004
+Proje Ekibi: Işık Yıldız, Hasan Yıldız 
 
 Projenin Özellikleri:
 
